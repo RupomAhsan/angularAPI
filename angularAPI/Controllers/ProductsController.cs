@@ -19,6 +19,14 @@ namespace angularAPI.Controllers
             return productRepository.Retrieve();
         }
 
+        // GET: api/Products/GDN
+        public IEnumerable<Product> Get(string search)
+        {
+            var productRepository = new ProductRepository();
+            var products= productRepository.Retrieve();
+            return products.Where(p => p.Code.Contains(search));
+        }
+
         // GET: api/Products/5
         public string Get(int id)
         {
