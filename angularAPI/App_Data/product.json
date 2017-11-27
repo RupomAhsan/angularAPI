@@ -2,89 +2,89 @@
   {
     "Description": "Leaf rake with 48-inch wooden handle.",
     "Price": 19.95,
-    "ProductCode": "GDN-0011",
-    "ProductId": 1,
-    "ProductName": "Leaf Rake",
+    "Code": "GDN-0011",
+    "Id": 1,
+    "Name": "Leaf Rake",
     "ReleaseDate": "2009-03-19T00:00:00-07:00"
   },
   {
     "Description": "15 gallon capacity rolling garden cart",
     "Price": 32.99,
-    "ProductCode": "GDN-0023",
-    "ProductId": 2,
-    "ProductName": "Garden Cart",
+    "Code": "GDN-0023",
+    "Id": 2,
+    "Name": "Garden Cart",
     "ReleaseDate": "2010-03-18T00:00:00-07:00"
   },
   {
     "Description": "Ergonomic firm-grim hand cultivator",
     "Price": 9.99,
-    "ProductCode": "GDN-0035",
-    "ProductId": 3,
-    "ProductName": "Hand Cultivator",
+    "Code": "GDN-0035",
+    "Id": 3,
+    "Name": "Hand Cultivator",
     "ReleaseDate": "2012-03-18T00:00:00-07:00"
   },
   {
     "Description": "Firm grip 14-inch hand trowel",
     "Price": 6.99,
-    "ProductCode": "GDN-0067",
-    "ProductId": 4,
-    "ProductName": "Hand Trowel",
+    "Code": "GDN-0067",
+    "Id": 4,
+    "Name": "Hand Trowel",
     "ReleaseDate": "2013-03-22T00:00:00-07:00"
   },
   {
     "Description": "Curved claw steel hammer",
     "Price": 8.99,
-    "ProductCode": "TBX-0048",
-    "ProductId": 5,
-    "ProductName": "Hammer",
+    "Code": "TBX-0048",
+    "Id": 5,
+    "Name": "Hammer",
     "ReleaseDate": "2013-05-21T00:00:00-07:00"
   },
   {
     "Description": "5.55 mm and 7 mm double open-ended wrench",
     "Price": 12.99,
-    "ProductCode": "TBX-0045",
-    "ProductId": 6,
-    "ProductName": "Wrench",
+    "Code": "TBX-0045",
+    "Id": 6,
+    "Name": "Wrench",
     "ReleaseDate": "2013-05-15T00:00:00-07:00"
   },
   {
     "Description": "Reel-type push lawn mower",
     "Price": 15.29,
-    "ProductCode": "GDN-0006",
-    "ProductId": 7,
-    "ProductName": "Push Mower",
+    "Code": "GDN-0006",
+    "Id": 7,
+    "Name": "Push Mower",
     "ReleaseDate": "2008-05-01T00:00:00-07:00"
   },
   {
     "Description": "15-inch steel blade hand saw",
     "Price": 11.55,
-    "ProductCode": "TBX-0022",
-    "ProductId": 8,
-    "ProductName": "Saw",
+    "Code": "TBX-0022",
+    "Id": 8,
+    "Name": "Saw",
     "ReleaseDate": "2009-05-15T00:00:00-07:00"
   },
   {
     "Description": "14-in Aluminum Pipe Wrench",
     "Price": 13.95,
-    "ProductCode": "TBX-0045",
-    "ProductId": 9,
-    "ProductName": "Pipe Wrench",
+    "Code": "TBX-0045",
+    "Id": 9,
+    "Name": "Pipe Wrench",
     "ReleaseDate": "2009-06-15T00:00:00-07:00"
   },
   {
     "Description": "Standard two-button video game controller",
     "Price": 35.95,
-    "ProductCode": "GMG-0042",
-    "ProductId": 10,
-    "ProductName": "Video Game Controller",
+    "Code": "GMG-0042",
+    "Id": 10,
+    "Name": "Video Game Controller",
     "ReleaseDate": "2002-10-15T00:00:00-07:00"
   },
   {
     "Description": "Everyone wants one!",
     "Price": 0.0,
-    "ProductCode": "APL-123456",
-    "ProductId": 11,
-    "ProductName": "iWatch",
+    "Code": "APL-123456",
+    "Id": 11,
+    "Name": "iWatch",
     "ReleaseDate": "2015-03-10T16:55:08.535279-07:00"
   }
 ]

@@ -9,7 +9,7 @@ using System.Web.Http.Cors;
 
 namespace angularAPI.Controllers
 {
-    [EnableCorsAttribute("http://localhost:59443","*","*")]
+    [EnableCors("http://localhost:60213", "*","*")]
     public class ProductsController : ApiController
     {
         // GET: api/Products
